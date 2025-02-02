@@ -2,7 +2,7 @@
 Because of YouTube premium system now many popular website or downloader can not download HD video from YouTube. But by using my code you can download single video or playlist easily with HD format.
 
 
-# Install all this packages before run python file:
+# Install all these packages before running python file: 
 - To install yt_dlp
   ```
   pip install yt_dlp
